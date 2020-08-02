@@ -1,1 +1,1 @@
-console.log("Try like Karina.  Attitued makes all the difference!");
+console.log("Try like Karina.  Attitude makes all the difference!");
